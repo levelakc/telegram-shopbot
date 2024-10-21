@@ -71,3 +71,5 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/levelakc/telegram-shopbot.git
    cd telegram-bot
+   #fill all empty values in text.py - and you are ready to go
+   /getadmin :)
